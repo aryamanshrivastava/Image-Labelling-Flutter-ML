@@ -1,16 +1,39 @@
-# image_labelling
+# Static Image Labeling🏷️
 
-A new Flutter project.
+Welcome to the Static Image Labeling project, a Flutter-based application designed to label images using Google ML Kit's Image Labeling feature. This app allows users to either take a picture using their camera or select an image from their gallery and then provides labels for the content of the image using machine learning.
 
-## Getting Started
+# Features
+Image Capture: Take photos directly from the camera for labelling.
 
-This project is a starting point for a Flutter application.
+Gallery Selection: Choose existing images from the gallery.
 
-A few resources to get you started if this is your first Flutter project:
+ML-Based Labeling: Utilizes Google's ML Kit for accurate image labelling.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Interactive UI: User-friendly interface with a clear, readable results display.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Technologies Used
+[Flutter](https://flutter.dev/): For creating the cross-platform mobile application.
+
+[Dart](https://dart.dev/): Programming language used for Flutter development.
+
+[Google ML Kit](https://developers.google.com/ml-kit): For image labelling functionality.
+
+[Image Picker](https://pub.dev/packages/image_picker): Flutter plugin for selecting images from the camera and gallery.
+
+# Installation
+1. Clone the repository:
+
+   ```sh
+    git clone https://github.com/aryamanshrivastava/Static-Image-Labelling.git
+
+2. Navigate to the project directory:
+   ```sh
+    cd Static-Image-Labelling
+
+3. Install dependencies:
+   ```sh
+     flutter pub get
+
+4. Run the Application:
+   ```sh
+    flutter run
