@@ -1,4 +1,4 @@
-# Static Image Labeling🏷️
+<!-- # Static Image Labeling🏷️
 
 Welcome to the Static Image Labeling project, a Flutter-based application designed to label images using Google ML Kit's Image Labeling feature. This app allows users to either take a picture using their camera or select an image from their gallery and then provides labels for the content of the image using machine learning.
 
@@ -24,11 +24,11 @@ Interactive UI: User-friendly interface with a clear, readable results display.
 1. Clone the repository:
 
    ```sh
-    git clone https://github.com/aryamanshrivastava/Static-Image-Labelling.git
+    git clone https://github.com/aryamanshrivastava/Image-Labelling-Flutter-ML.git
 
 2. Navigate to the project directory:
    ```sh
-    cd Static-Image-Labelling
+    cd Image-Labelling-Flutter-ML
 
 3. Install dependencies:
    ```sh
@@ -36,4 +36,4 @@ Interactive UI: User-friendly interface with a clear, readable results display.
 
 4. Run the Application:
    ```sh
-    flutter run
+    flutter run -->
